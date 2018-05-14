@@ -1,0 +1,45 @@
+{
+    "data":
+    [
+            {                
+            "id":1,
+            "img":"https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars#/media/File:Rolls-Royce_Phantom_VIII_Genf_2018.jpg",
+            "manufacturer":"Rolls Royce",
+            "model":"phantom VIII Genf",
+            "price":365245,
+            "quality":
+            [
+                {
+                    "name":"overall",
+                    "rating": "5"
+                },
+                {
+                    "name":"mechanical",
+                    "rating": "4"
+                },
+                {
+                    "name":"body",
+                    "rating": "4"
+                },
+                {
+                    "name":"interior",
+                    "rating": "5"
+                },
+                {
+                    "name":"accessories",
+                    "rating": "5"
+                },
+                {
+                    "name":"powertrain",
+                    "rating": "5"
+                }
+            ],
+            "video":"https://www.youtube.com/watch?v=LHeFc-ZdGzM",
+
+            "wiki":"https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars",
+
+            "description":"Rolls-Royce Motor Cars Limited is a British luxury automobile maker. A wholly owned subsidiary of German group BMW, it was established in 1998 after BMW was licensed the rights to the Rolls-Royce brand name and logo from Rolls-Royce PLC and acquired the rights to the Spirit of Ecstasy and Rolls-Royce grill shape trademarks from Volkswagen AG. Rolls-Royce Motor Cars Limited operates from purpose-built administrative and production facilities opened in 2003 across from the historic Goodwood Circuit in Goodwood, West Sussex, England, United Kingdom. Rolls-Royce Motors Cars Limited is the exclusive manufacturer of Rolls-Royce branded motor cars since 2003."                
+            }       
+    ]
+    
+}
